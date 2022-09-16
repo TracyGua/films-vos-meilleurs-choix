@@ -1,0 +1,15 @@
+@use 'variables';
+
+.card {
+background-color: variables.$primary;
+margin: 5px;
+padding: 5px;
+
+&__btn {
+width: 100%;
+padding: 5px 0;
+border: none;
+background: color.adjust(variables.$primary, $whiteness: 15%); 
+};
+};
+

@@ -16,4 +16,15 @@
 .top-picks__wrapper {
   display: flex;
   margin: 0 -5px;
+}
+
+.card {
+  background-color: #73BA9B;
+  margin: 5px;
+  padding: 5px;
+}
+.card__btn {
+  width: 100%;
+  padding: 5px 0;
+  border: none;
 }/*# sourceMappingURL=style.css.map */
